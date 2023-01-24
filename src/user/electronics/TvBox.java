@@ -1,4 +1,4 @@
 package user.electronics;
 
-public class TvBox {
+public class TvBox extends ElectronicDevice{
 }
