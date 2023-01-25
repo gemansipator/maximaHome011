@@ -48,10 +48,10 @@ public class Main {
         System.out.println();
 
 
-        tvRemote.turnOff();
-        monitor.turnOff();
-        tvBox.turnOff();
-        surgeProtector.turnOff();
+//        tvRemote.turnOff();
+//        monitor.turnOff();
+//        tvBox.turnOff();
+//        surgeProtector.turnOff();
 
 
     }
