@@ -1,6 +1,6 @@
 package electronics.control;
 
-public interface SurgeProtectorPress extends ButtonPress, ConnectToASocket{ //сетевой фильтр
+public interface SurgeProtectorPress extends AbilityToPress, ConnectToASocket{ //сетевой фильтр
 
 
 

@@ -1,8 +1,5 @@
 package user.electronics;
 
-import electronics.control.ButtonPress;
-import electronics.control.ConnectToASocket;
-
 public class Monitor extends ElectronicDevice{
 
     @Override

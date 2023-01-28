@@ -1,9 +1,9 @@
 package user.electronics;
 
-import electronics.control.ButtonPress;
+import electronics.control.AbilityToPress;
 import electronics.control.ConnectToASocket;
 
-public abstract class ElectronicDevice implements ButtonPress, ConnectToASocket {
+public abstract class ElectronicDevice implements AbilityToPress, ConnectToASocket {
 
     abstract void start();
     abstract void turnOff();

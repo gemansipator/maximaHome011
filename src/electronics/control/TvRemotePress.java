@@ -1,6 +1,6 @@
 package electronics.control;
 
-public interface TvRemotePress extends ButtonPress{  // ТВ пульт
+public interface TvRemotePress extends AbilityToPress {  // ТВ пульт
 
 
     @Override
